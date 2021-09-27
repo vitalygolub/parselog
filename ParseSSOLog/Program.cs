@@ -24,10 +24,8 @@ namespace ParseSSOLog
             cmd.ExecuteNonQuery();
 
 
-            using (StreamReader sr = new StreamReader(@"C:\Users\vital\source\repos\ParseSSOLog\is4-20210927.txt"))
+            using (StreamReader sr = new StreamReader(@".\is4-20210927.txt"))
             {
-                
-
                 
                 while (!sr.EndOfStream) 
                 {
