@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31410.357
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ParseSSOLog", "ParseSSOLog\ParseSSOLog.csproj", "{C85BBEC4-FB0B-4A75-9604-5EA8FF221835}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C85BBEC4-FB0B-4A75-9604-5EA8FF221835}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C85BBEC4-FB0B-4A75-9604-5EA8FF221835}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C85BBEC4-FB0B-4A75-9604-5EA8FF221835}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C85BBEC4-FB0B-4A75-9604-5EA8FF221835}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3476E2DC-E6A3-4E15-BCF3-158FD8110D69}
+	EndGlobalSection
+EndGlobal
